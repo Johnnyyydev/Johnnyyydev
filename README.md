@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://github.com/Johnnyyydev"><img src="https://img.shields.io/badge/GitHub-Johnnyyydev-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://x.com/johnnyyydev"><img src="https://img.shields.io/badge/X-@johnnyyydev-000000?style=for-the-badge&logo=x" /></a>
+  <a href="https://t.me/johnnyyydev"><img src="https://img.shields.io/badge/Telegram-@johnnyyydev-2CA5E0?style=for-the-badge&logo=telegram" /></a>
   <a href="https://www.linkedin.com/in/johnny-luis-59bb58410/"><img src="https://img.shields.io/badge/LinkedIn-Johnny_Luis-0077B5?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
@@ -59,8 +60,8 @@
 |---------|-------|-------------|
 | [GER-WPT](https://github.com/Johnnyyydev/GER-WPT) | Python | Dynamic Wireless Power Transfer simulation using non-Hermitian PT-symmetry |
 | [GER-F-BNB](https://github.com/Johnnyyydev/GER-F-BNB) | Rust | BNB flash arbitrage strategy engine |
+| [audits](https://github.com/Johnnyyydev/audits) | Solidity | Smart contract security audit portfolio — 2 Critical bugs found with PoC |
 | MEV Liquidation Bot | Solidity + JS | On-chain MEV bot targeting liquidation opportunities on DeFi protocols |
-| Smart Contract Auditor | Solidity | Security analysis toolkit for ERC20/721 contracts, honeypot & rugpull detection |
 
 ---
 
@@ -92,6 +93,7 @@
 <p align="center">
   <a href="https://github.com/Johnnyyydev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://x.com/johnnyyydev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" /></a>
+  <a href="https://t.me/johnnyyydev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram" /></a>
   <a href="https://www.linkedin.com/in/johnny-luis-59bb58410/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
