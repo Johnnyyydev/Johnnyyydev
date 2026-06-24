@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00C9FF,100:92FE9D&height=200&section=header&text=Johnny%20Luis&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Smart%20Contract%20Auditor%20%7C%20Web3%20Security%20%7C%20MEV%20Engineer&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00C9FF,100:92FE9D&height=200&section=header&text=Johnnyyydev&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Smart%20Contract%20Auditor%20%7C%20Web3%20Security%20%7C%20MEV%20Engineer&descAlignY=55&descSize=18" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Smart+Contract+Auditor+%F0%9F%94%90;Web3+Security+Researcher+%F0%9F%9B%A1%EF%B8%8F;MEV+%26+DeFi+Engineer+%E2%9A%A1;Shopify+Developer+%F0%9F%9B%92;Building+on+Solana+%2B+EVM+%F0%9F%9A%80" alt="Typing SVG" />
